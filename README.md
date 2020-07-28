@@ -28,7 +28,7 @@ To quit radare simply hit 'q' twice while in graph mode to get back to the promp
 [0x100000e80]> quit
 ```
 
-## Compile your own C file for radare2
+## Build your own C binary output file for radare2
 Create a C file of your choice and run
 ```
 $ gcc -o crackme crackme.c
