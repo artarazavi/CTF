@@ -8,7 +8,7 @@ To run the challenge
 ```
 $ ./crackme
 ```
-Then you will be promted to enter a password. In order to figure out the password you must decryot the secret with radare2.
+Then you will be promted to enter a password. In order to figure out the password you must decrypt the secret with radare2.
 ```
 Enter password: 123
 You Lose!
