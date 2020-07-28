@@ -9,7 +9,7 @@ Clone this repo enter into the folder and run
 $ r2 crackme[#]
 -- [some radare2 fortune for fun]
 ```
-fun note: radare will tell you a fortune when you open up the file. to get another fortune simply run the "fo" command.   
+fun note: radare will tell you a fortune when you open up the file. To get another fortune simply run the "fo" command.   
 When the radare prompt opens up run the "aa" command to analyze the code.
 ```
 [0x100000e80]> aa
