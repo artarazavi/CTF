@@ -1,10 +1,12 @@
 # Reverse Engineering CTF challenge 
-**challenge based on MAC OS architechture**   
+## Install radare2
 Must have [radare2](https://github.com/radareorg/radare2) installed to run this
 ```
 $ brew install radare2
 ```
-Clone this repo enter into the folder and run
+## How to run CTF challenge
+**challenge based on MAC OS architechture**   
+Clone this repo enter into the appropriate folder and run
 ```
 $ r2 crackme[#]
 -- AHHHHH!!!! ASSEMBLY CODE!!!!!! HOLD ME I'M SCARED!!!!!!!!!![some radare2 fortune]
