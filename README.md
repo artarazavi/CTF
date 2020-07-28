@@ -35,6 +35,6 @@ $ gcc -o crackme crackme.c
 ```
 Then you can input the binary file into radare2
 ```
-$ r2 crackme[#]
+$ r2 crackme
 -- [some radare2 fortune]
 ```
