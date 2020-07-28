@@ -1,5 +1,5 @@
 # Reverse Engineering CTF challenge 
-A series of reverse engineering puzzzles of increasing complexity.
+A series of reverse engineering puzzles of increasing complexity.
 ## Purpose
 This CTF challenge focuses on strengthening the user’s reverse engineering abilities through solving a series of increasing complexity puzzles. Reverse engineering is an important first step in malware analysis because when malware is discovered on a machine it is in binary format. The only way to figure out how the attack took place and which vulnerabilities were exploited is through deciphering the binary code. This is a challenge aimed mostly at beginners and one does  not need previous assembly programming experience to complete it. 
 ## Install radare2
