@@ -1,5 +1,5 @@
 # Reverse Engineering CTF challenge 
-** challenge based on MAC OS architechture **
+**challenge based on MAC OS architechture**   
 Must have [radare2](https://github.com/radareorg/radare2) installed to run this
 ```
 $ brew install radare2
